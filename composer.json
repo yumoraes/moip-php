@@ -1,0 +1,13 @@
+{
+    "name": "yurimoraes/moip-lib-v1",
+    "description": "Para disponibilizar o moip v1 no composer",
+    "authors": [ 
+        {
+            "name": "Yuri Rodriguez Moraes",
+            "email": "ymoraes5948@gmail.com"
+        }
+    ],
+    "require": {
+         "php": ">=5.3.17"
+    }
+ }
